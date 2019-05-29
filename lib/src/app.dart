@@ -11,6 +11,7 @@ class MyApp extends StatelessWidget {
 
         //quitar banner de que dice debug
         debugShowCheckedModeBanner: false,
+        //En la propiedad home le indicaremos cual será el widget que se corresponderá con el UI principal de nuestra aplicación.
         //para centrar el widget
         home: Center(
 //            child:HomePage()
